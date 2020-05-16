@@ -1,0 +1,18 @@
+.HeaderNavigation{
+    background-color: lightgrey;
+}
+.blockcontainer{ 
+    width: 80px;
+    height: 80px;
+    background-color: darkgrey;
+    color: white;
+    
+}
+.LeftBlock{
+    width: 29%;
+    float: left;
+}
+.RightBlock{
+    width: 70%;
+    float: left;
+}
